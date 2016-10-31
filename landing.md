@@ -1,7 +1,7 @@
 ---
 layout: landing
-title: Landing
-description: Lorem ipsum dolor sit amet nullam consequat<br />sed veroeros. tempus adipiscing nulla.
+title: Hi, my name is Janice
+description: This is my professional site
 image: assets/images/pic07.jpg
 nav-menu: yes
 ---

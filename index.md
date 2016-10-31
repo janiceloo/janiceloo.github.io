@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: Hi, my name is Janice
-description:
+description: This is my professional site
 image:
 author:
 nav-menu:
