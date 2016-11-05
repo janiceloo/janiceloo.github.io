@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rae Jewelry
+title: RAE Jewelry
 description: eCommerce
 image: assets/images/pic06.jpg
 ---
