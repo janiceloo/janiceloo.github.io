@@ -1,7 +1,7 @@
 ---
 layout: landing
-title: Landing
-description: Lorem ipsum dolor sit amet nullam consequat<br />sed veroeros. tempus adipiscing nulla.
+title: Blog
+description: Ramblings of a restless mind, sometimes of the productive kind.
 image: assets/images/pic07.jpg
 nav-menu: yes
 ---
