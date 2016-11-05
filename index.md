@@ -37,7 +37,7 @@ nav-menu:
 		</header>
 		<p>Feel free to drop me a message or read my blog!</p>
 		<ul class="actions">
-			<li><a href="landing.html" class="button next">Go To Blog</a></li>
+			<li><a href="blog.html" class="button next">Go To Blog</a></li>
 		</ul>
 	</div>
 </section>
