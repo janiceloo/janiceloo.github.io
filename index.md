@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: Hi, my name is Janice
+landing-title: Welcome to my humble abode!
 description:
 image:
 author:
@@ -17,7 +17,7 @@ nav-menu:
 		<div class="content">
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
 			<ul class="actions">
-				<li><a href="#one" class="button next scrolly">Get Started</a></li>
+				<li><a href="#one" class="button next scrolly">Look At My Work</a></li>
 			</ul>
 		</div>
 	</div>
@@ -33,11 +33,11 @@ nav-menu:
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Curious about Me?</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>You can read my blog or feel free to reach out and send me a message!</p>
 		<ul class="actions">
-			<li><a href="landing.html" class="button next">Get Started</a></li>
+			<li><a href="landing.html" class="button next">Go To Blog</a></li>
 		</ul>
 	</div>
 </section>
