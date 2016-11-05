@@ -14,7 +14,7 @@ nav-menu: yes
 			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
 		</span>
 		<header class="major">
-			<h1>Landing</h1>
+			<h1>Blog</h1>
 		</header>
 		<div class="content">
 			<p>{{ page.description }}</p>
