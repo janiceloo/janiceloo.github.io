@@ -9,7 +9,7 @@
 title-bold: Creativity by JLOO
 title-normal: 
 email: janice.loo.kim@gmail.com
-description: Musings of a BlooBird, rendered by JimBot
+description: Musings of a BlooBird
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://janiceloo.github.io" # the base hostname & protocol for your site
 author:
