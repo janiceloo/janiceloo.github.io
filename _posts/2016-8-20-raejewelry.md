@@ -15,7 +15,7 @@ image: assets/images/RaeJewelry_home.jpg
 
 RAE Jewelry's branding and eCommerce site was designed and built for an entrepreneur who handcrafts jewelry that has been inspired by her travels. Rae Jewelry is a mobile responsive, custom eCommerce platform.
 
-Process:
+Process:<br>
 1. Branding Brainstorm / Logo Design inspiration<br>
 2. Logo Design to review / Gather necessities and inspiration for Site plan<br>
 3. Revisions on Logo to review / Site plan to review / Start gathering client content & images<br>
