@@ -13,4 +13,18 @@ image: assets/images/RaeJewelry_home.jpg
 
 <span class="image fit"><img src="{{ site.baseurl }}/assets/images/RaeJewelry_contact.jpg" alt="" /></span>
 
-RAE Jewelry's branding and eCommerce site was designed and built for an entrepreneur who handcrafts jewelry that has been inspired by her travels.
+RAE Jewelry's branding and eCommerce site was designed and built for an entrepreneur who handcrafts jewelry that has been inspired by her travels. Rae Jewelry is a mobile responsive, custom eCommerce platform.
+
+Process:
+1. Branding Brainstorm / Logo Design inspiration
+2. Logo Design to review / Gather necessities and inspiration for Site plan
+3. Revisions on Logo to review / Site plan to review / Start gathering client content & images
+4. Mocks based on Site plan to review / Finalize Logo Revisions / Continue to gather content & images
+5. Revisions on Site Mocks with content & images 
+6. Finalize all designs and content
+7. Hand off to Developers
+8. QA test and configure 
+9. Finalize everything is working as it should
+10. Teach Client how to use site
+11. Complete hand off to client
+
