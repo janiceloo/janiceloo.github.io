@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: page
 title: RAE Jewelry
 description: eCommerce
 image: assets/images/RaeJewelry_home.jpg
-image: assets/images/RaeJewelry_shop.jpg
 ---
 
 RAE Jewelry's branding and eCommerce site was designed and built for an entrepreneur who handcrafts jewelry that has been inspired by her travels.
