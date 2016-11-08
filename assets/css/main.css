@@ -49,8 +49,6 @@
 	}
 
 	#post-images {
-		margin-left: 20%;
-		margin-right: 20%;
 		display: flex;
 		justify-content: center;
 		align-items: center;
@@ -58,6 +56,10 @@
 		flex-flow: column;
 	}
 
+	#rae-images {
+		width: 100px;
+		height: 100px;
+	}
 /* Box Model */
 
 	*, *:before, *:after {
