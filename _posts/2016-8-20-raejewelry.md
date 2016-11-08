@@ -8,13 +8,9 @@ image: assets/images/RaeJewelry_home.jpg
 RAE Jewerly's branding and eCommerce site was designed and built for an entrepreneur who handcrafts jewelry that has been inspired by her travels.
 
 <img src="assets/images/RaeJewelry_shop.jpg" alt="" data-position="center center" />
-</a>
 
 <img src="assets/images/RaeJewelry_productdetails.jpg" alt="" data-position="center center" />
-</a>
 
 <img src="assets/images/RaeJewelry_about.jpg" alt="" data-position="center center" />
-</a>
 
 <img src="assets/images/RaeJewelry_contact.jpg" alt="" data-position="center center" />
-</a>
