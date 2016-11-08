@@ -11,6 +11,6 @@ RAE Jewelry's branding and eCommerce site was designed and built for an entrepre
 
 <img src="assets/images/RaeJewelry_productdetails.jpg" alt="" data-position="center center" />
 
-<img src="{{page.image}}" alt="" data-position="center center" />
+<img src="{{post.image}}" alt="" data-position="center center" />
 
 <img src="RaeJewelry_contact.jpg" alt="" data-position="center center" />
