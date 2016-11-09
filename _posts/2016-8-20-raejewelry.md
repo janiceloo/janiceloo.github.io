@@ -2,8 +2,10 @@
 layout: post
 title: RAE Jewelry
 description: eCommerce
-image: assets/images/RaeJewelry_home.jpg
+image: assets/images/RaeJewelry_01.jpg
 ---
+<span class="image fit"><img src="{{ site.baseurl }}/assets/images/RaeJewelry_home.jpg" alt=""/></span>
+
 <span class="image fit"><img src="{{ site.baseurl }}/assets/images/RaeJewelry_shop.jpg" alt=""/></span>
 
 <span class="image fit"><img src="{{ site.baseurl}}/assets/images/RaeJewelry_productdetails.jpg" alt=""/>
