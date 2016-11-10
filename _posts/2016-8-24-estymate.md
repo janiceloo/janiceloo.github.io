@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Product.ion
+title: E$tymate
 description: Film Budgeting App
 image: assets/images/Estymate v2 LOGIN b.jpg
 ---
