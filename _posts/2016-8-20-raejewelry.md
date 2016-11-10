@@ -28,5 +28,7 @@ Process:<br>
 8. QA test and configure<br> 
 9. Finalize everything is working as it should<br>
 10. Teach client how to use site<br>
-11. Complete hand off to client
+11. Complete hand off to client<br>
 
+
+This project includes Branding, Graphic Design, UI/UX Design, Photography Retouched
