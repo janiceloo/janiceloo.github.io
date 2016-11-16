@@ -2,7 +2,7 @@
 layout: post
 title: About
 description: Just a snippet
-image: assets/images/pic11.jpg
+image: assets/images/jloo.jpg
 nav-menu: yes
 ---
 
