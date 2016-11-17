@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Girl Inspired
-description: Blog / Forums
+title: VTS (View The Space)
+description: Platform: Internal Tools & Admin Controls
 image: assets/images/pic05.jpg
 ---
 
