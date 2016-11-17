@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 title: About
 description: Just a snippet
 image: assets/images/jloo.jpg
