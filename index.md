@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: Welcome to my humble abode!
 description:
-image: assets/images/Heartinhand.jpg
+image: 
 author:
 nav-menu:
 ---
