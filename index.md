@@ -30,16 +30,6 @@ nav-menu:
 {% include tiles.html %}
 
 <!-- Two -->
-<section id="two">
-	<div class="inner">
-		<header class="major">
-			<h2>Curious About Me?</h2>
-		</header>
-		<p>Feel free to drop me a message or read my blog!</p>
-		<ul class="actions">
-			<li><a href="blog.html" class="button next">Go To Blog</a></li>
-		</ul>
-	</div>
-</section>
+
 
 </div>
