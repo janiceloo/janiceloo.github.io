@@ -3,6 +3,7 @@ layout: post
 title: RAE Jewelry
 description: eCommerce
 image: assets/images/RaeJewelry_01.jpg
+url: /rae/
 ---
 <span class="image fit"><img src="{{ site.baseurl }}/assets/images/RaeJewelry_home.jpg" alt=""/></span>
 
@@ -25,7 +26,7 @@ Process:<br>
 5. Revisions on site mock ups with content & images<br>
 6. Finalize all designs and content<br>
 7. Hand off to developers<br>
-8. QA test and configure<br> 
+8. QA test and configure<br>
 9. Finalize everything is working as it should<br>
 10. Teach client how to use site<br>
 11. Complete hand off to client<br>
