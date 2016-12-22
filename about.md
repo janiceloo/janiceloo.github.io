@@ -1,5 +1,5 @@
 ---
-layout: post2
+layout: post
 title: About
 description: Just a snippet
 image:
