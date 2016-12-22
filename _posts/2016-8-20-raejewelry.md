@@ -3,7 +3,6 @@ layout: post
 title: RAE Jewelry
 description: eCommerce
 image: assets/images/RaeJewelry_01.jpg
-url: /rae/
 ---
 <span class="image fit"><img src="{{ site.baseurl }}/assets/images/RaeJewelry_home.jpg" alt=""/></span>
 
