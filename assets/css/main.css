@@ -3927,6 +3927,10 @@
 			visibility: visible;
 		}
 
-.about-me-p {
-	display: block;
+.about-me {
+	display: flex;
+  justify-content: space-between;
+  align-content: center;
+  align-items: center;
+	flex-flow: row;
 }
