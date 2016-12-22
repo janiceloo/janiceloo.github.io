@@ -6,7 +6,7 @@ image:
 nav-menu: yes
 ---
 
-<div class="inner">
+<!-- <div class="inner"> -->
 	<span class="image left"><img src="assets/images/jloo.jpg" alt="" /></span>
 	<p>I'm Janice Loo, a UI/UX Designer born and raised in New York City. I enjoy exploring different mediums of art and food with good company. On my off time, writing, reading and jamming to some music is a must. If you're interested in what I'm up to, I'd love to hear from you!</p>
-</div>
+<!-- </div> -->
