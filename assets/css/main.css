@@ -48,6 +48,11 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	.links {
+		display: flex;
+		justify-content: flex-end;
+	}
+
 	#post-images {
 		display: flex;
 		justify-content: center;
