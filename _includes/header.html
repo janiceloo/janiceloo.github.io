@@ -10,15 +10,15 @@
 	<nav>
 		<div class="links">
 	        {% for page in site.pages %}
-			    {% if page.layout == "home" %}
+			    {% if page.layout == "post2" %}
 			        <div><a href="{{ page.url | prepend: site.baseurl | remove: "index.html" }}">{{ page.title }}</a></div>
 		    	{% endif %}
 			{% endfor %}
-			{% for page in site.pages %}
+			<!-- {% for page in site.pages %}
 			    {% if page.layout != "home" %}
 			        <div><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></div>
 			    {% endif %}
-			{% endfor %}
+			{% endfor %} -->
 		</div>
 		<!-- <ul class="actions vertical">
 		</ul> -->
