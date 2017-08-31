@@ -2772,7 +2772,7 @@
 			}
 
 			.tiles article:after {
-				background-color: #464c4b;
+				background-color: rgba(36, 41, 67, 0.25);
 				content: '';
 				display: block;
 				height: 100%;
@@ -2911,7 +2911,7 @@
 			-webkit-flex-direction: row;
 			-ms-flex-direction: row;
 			flex-direction: row;
-			background-color: #2e3450;
+			background-color: #242626;
 		}
 
 			.spotlights > section > .image {
@@ -2930,7 +2930,7 @@
 				}
 
 				.spotlights > section > .image:before {
-					background: rgba(36, 41, 67, 0.9);
+					background: #242626;
 					content: '';
 					display: block;
 					height: 100%;
@@ -2973,7 +2973,7 @@
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: #333856;
+				background-color: #242626;
 			}
 
 				.spotlights > section:nth-child(2n) > .content {
