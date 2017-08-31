@@ -2178,7 +2178,7 @@
 		.icon.alt:before {
 			background-color: #ffffff;
 			border-radius: 100%;
-			color: #242943;
+			color: #242626;
 			display: inline-block;
 			height: 2em;
 			line-height: 2em;
@@ -3386,7 +3386,7 @@
 			-webkit-pointer-events: none;
 			-ms-pointer-events: none;
 			pointer-events: none;
-			background-color: #242943;
+			background-color: #242626;
 			content: '';
 			display: block;
 			height: 100%;
@@ -3565,7 +3565,7 @@
 /* Main */
 
 	#main {
-		background-color: #2a2f4a;
+		background-color: #242626;
 	}
 
 		#main > * {
