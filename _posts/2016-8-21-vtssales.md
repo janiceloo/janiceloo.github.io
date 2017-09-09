@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VTS (View The Space)
-description: Branding / Marketing / Sales Collateral
+description: Branding / Processes / Marketing / Sales
 image: assets/images/design_feedback_guide_1.jpg
 ---
 <br>
