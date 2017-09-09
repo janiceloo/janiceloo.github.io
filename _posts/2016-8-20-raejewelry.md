@@ -19,10 +19,7 @@ Process:<br>
 9. Finalize everything is working as it should<br>
 10. Teach client how to use site<br>
 11. Complete hand off to client<br>
-<br>
-<br>
-<br>
-<br>
+
 <span class="image fit"><img src="{{ site.baseurl }}/assets/images/RaeJewelry_home.jpg" alt=""/></span>
 <br>
 <span class="image fit"><img src="{{ site.baseurl }}/assets/images/RaeJewelry_shop.jpg" alt=""/></span>
