@@ -5,7 +5,7 @@ description: eCommerce
 image: assets/images/RaeJewelry_01.jpg
 ---
 <br>
-RAE Jewelry's branding and eCommerce site was designed and built for an entrepreneur who handcrafts jewelry that has been inspired by her travels. Rae Jewelry is a mobile responsive, custom eCommerce platform.
+RAE Jewelry's branding and eCommerce site was designed and built for an entrepreneur who handcrafts jewelry that has been inspired by her travels. Rae Jewelry is a mobile responsive, custom eCommerce platform.<br>
 <br>
 Process:<br>
 1. Branding brainstorm / Logo design inspiration<br>
@@ -19,6 +19,10 @@ Process:<br>
 9. Finalize everything is working as it should<br>
 10. Teach client how to use site<br>
 11. Complete hand off to client<br>
+<br>
+This project includes Branding, Graphic Design, UI/UX, Photography Retouched
+<br>
+<br>
 
 <span class="image fit"><img src="{{ site.baseurl }}/assets/images/RaeJewelry_home.jpg" alt=""/></span>
 <br>
