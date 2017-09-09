@@ -23,6 +23,7 @@ Process:<br>
 This project includes Branding, Graphic Design, UI/UX, Photography Retouched
 <br>
 <br>
+<br>
 
 <span class="image fit"><img src="{{ site.baseurl }}/assets/images/RaeJewelry_home.jpg" alt=""/></span>
 <br>
