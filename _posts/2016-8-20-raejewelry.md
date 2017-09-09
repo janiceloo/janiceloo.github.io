@@ -20,7 +20,6 @@ Process:<br>
 10. Teach client how to use site<br>
 11. Complete hand off to client<br>
 <br>
-This project includes Branding, Graphic Design, UI/UX Design, Photography Retouched
 <br>
 <br>
 <br>
