@@ -10,5 +10,5 @@ image: assets/images/design_feedback_guide_1.png
 <span class="image fit"><img src="{{ site.baseurl }}/assets/images/design_feedback_guide_3.png" alt=""/></span>
 <br>
 <br>
-<span class="image fit"><img src="{{ site.baseurl }}/assets/images/Product Email 2.png" alt=""/></span>
+<span class="image fit"><img src="{{ site.baseurl }}/assets/images/Product Email 2.jpg" alt=""/></span>
 <br>
