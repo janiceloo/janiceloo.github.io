@@ -6,7 +6,7 @@ image: assets/images/Admin.jpg
 ---
 <br>
 VTS's Administration Panel was created for users (including VTS In-house teams) that had Admin permissions who needed to on-board and manage users, accounts, permissions and modules efficiently and effectively. All internal tools data research, workflow, design and iterations within this part of the platform were spearheaded by myself and a Product Manager.<br>
-Collapsed Nav Interaction protoype available to view here: https://app.atomic.io/d/6dw7uDh4ekZU
+Collapsed Nav Interaction protoype available to view <a href="https://app.atomic.io/d/6dw7uDh4ekZU">here</a> 
 <br>
 <br>
 <br>
