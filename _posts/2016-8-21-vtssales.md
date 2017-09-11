@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VTS (View The Space)
-description: Branding / Processes / Marketing / Sales
+description: Process/Branding/Marketing
 image: assets/images/design_feedback_guide_1.png
 ---
 <br>
