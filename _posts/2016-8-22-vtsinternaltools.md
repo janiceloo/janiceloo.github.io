@@ -10,6 +10,8 @@ Collapsed Nav Interaction protoype available to view <a href="https://app.atomic
 <br>
 <br>
 <br>
+<span class="image fit"><img src="{{ site.baseurl }}/assets/images/add user to spaces.gif" alt=""/></span>
+<br>
 <span class="image fit"><img src="{{ site.baseurl }}/assets/images/Admin_Requests.jpg" alt=""/></span>
 <br>
 <span class="image fit"><img src="{{ site.baseurl }}/assets/images/Admin_Users.jpg" alt=""/></span>
