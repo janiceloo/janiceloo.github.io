@@ -13,6 +13,6 @@ Estymate is a Film Production Budgeting application designed and built as an int
 <br>
 <span class="image fit"><img src="{{ site.baseurl }}/assets/images/Estymate v2 Master Sheet.jpg" alt=""/></span>
 <br>
-<span class="image fit"><img src="{{ site.baseurl }}/assets/images/Estymate v2 Projects .jpg" alt=""/></span>
+<span class="image fit"><img src="{{ site.baseurl }}/assets/images/Estymate v2 Projects.jpg" alt=""/></span>
 
 
