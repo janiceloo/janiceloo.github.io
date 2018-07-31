@@ -11,6 +11,7 @@ nav-menu:
 <!-- Banner -->
 <section id="banner" class="major">
 	<div class="inner">
+		<title>Design by J.Loo</title>
 		<header class="major">
 			<h1>{{ page.landing-title }}</h1>
 		</header>
