@@ -4,19 +4,9 @@ title: RAE Jewelry
 description: eCommerce
 image: assets/images/RaeJewelry_01.jpg
 ---
-<span class="image fit"><img src="{{ site.baseurl }}/assets/images/RaeJewelry_home.jpg" alt=""/></span>
-
-<span class="image fit"><img src="{{ site.baseurl }}/assets/images/RaeJewelry_shop.jpg" alt=""/></span>
-
-<span class="image fit"><img src="{{ site.baseurl}}/assets/images/RaeJewelry_productdetails.jpg" alt=""/>
-</span>
-
-<span class="image fit"><img src="{{ site.baseurl }}/assets/images/RaeJewelry_about.jpg" alt="" /></span>
-
-<span class="image fit"><img src="{{ site.baseurl }}/assets/images/RaeJewelry_contact.jpg" alt="" /></span>
-
-RAE Jewelry's branding and eCommerce site was designed and built for an entrepreneur who handcrafts jewelry that has been inspired by her travels. Rae Jewelry is a mobile responsive, custom eCommerce platform.
-
+<br>
+RAE Jewelry's branding and eCommerce site was designed and built for an entrepreneur who handcrafts jewelry that has been inspired by her travels. Rae Jewelry is a mobile responsive, custom eCommerce platform.<br>
+<br>
 Process:<br>
 1. Branding brainstorm / Logo design inspiration<br>
 2. Logo design to review / Gather necessities and inspiration for site plan<br>
@@ -29,6 +19,20 @@ Process:<br>
 9. Finalize everything is working as it should<br>
 10. Teach client how to use site<br>
 11. Complete hand off to client<br>
+<br>
+This project includes Branding, Graphic Design, UI/UX, Photography Retouched
+<br>
+<br>
+<span class="image fit"><img src="{{ site.baseurl }}/assets/images/RaeJewelry_home.jpg" alt=""/></span>
+<br>
+<span class="image fit"><img src="{{ site.baseurl }}/assets/images/RaeJewelry_shop.jpg" alt=""/></span>
+<br>
+<span class="image fit"><img src="{{ site.baseurl}}/assets/images/RaeJewelry_productdetails.jpg" alt=""/>
+</span>
+<br>
+<span class="image fit"><img src="{{ site.baseurl }}/assets/images/RaeJewelry_about.jpg" alt="" /></span>
+<br>
+<span class="image fit"><img src="{{ site.baseurl }}/assets/images/RaeJewelry_contact.jpg" alt="" /></span>
+<br>
 
 
-This project includes Branding, Graphic Design, UI/UX Design, Photography Retouched
