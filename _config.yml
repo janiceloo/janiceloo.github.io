@@ -7,7 +7,8 @@
 
 # Site settings
 title: "Janice Loo Design"
-title-normal: Creativity & Design by JLOO
+title-bold: "Janice Loo Design"
+# title-normal: Creativity & Design by JLOO
 email: janice.loo.kim@gmail.com
 description: Musings of a BlooBird
 baseurl: "" # the subpath of your site, e.g. /blog
