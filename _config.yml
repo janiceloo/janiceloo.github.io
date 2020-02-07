@@ -6,13 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title-bold: 
+title: "Janice Loo Design"
+title-bold: "Janice Loo Design"
 title-normal: Creativity & Design by JLOO
 email: janice.loo.kim@gmail.com
 description: Musings of a BlooBird
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://janiceloo.github.io" # the base hostname & protocol for your site
-author:
+author: "Janice Loo Design"
 city: New York
 state: NY
 zip_code:
